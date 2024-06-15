@@ -6,7 +6,7 @@ on:
     - cron: 0 19 * * *
 
 env:
-  REPO_URL: https://github.com/xukai885/OpenWrt
+  REPO_URL: https://github.com/xukai885/openwrt
   REPO_BRANCH: main
   CONFIG_FILE: configs/x86_64-mini.config
   DIY_SCRIPT: diy-mini.sh
